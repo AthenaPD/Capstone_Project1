@@ -15,7 +15,8 @@ app = Flask(__name__)
 # Get DB_URI from environ variable (useful for production/testing) or,
 # if not set there, use development local db.
 app.config['SQLALCHEMY_DATABASE_URI'] = (
-    os.environ.get('DATABASE_URL', 'postgresql:///bay_area_fear_free_vets'))
+    os.environ.get('SUPABASE_DB_URL', 'postgresql:///bay_area_fear_free_vets'))
+# app.config['SQLALCHEMY_DATABASE_URI'] = ('postgresql://postgres.pksvxcnhsjcboqfgqdye:V11eSnrXESvcQNv4@aws-0-us-west-1.pooler.supabase.com:6543/postgres')
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_ECHO'] = False
