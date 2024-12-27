@@ -1,0 +1,64 @@
+.home-hero {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    left: 0;
+    z-index: -1;
+    background-image: url("/static/images/home-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    text-shadow: 0 0 8px #66757f; 
+}
+
+body {
+    background-color: #D6F1FF;
+}
+
+.card-custom {
+    width: 20rem; 
+    height: 13rem;
+}
+
+.card-custom:hover {
+    background-color: #e6ecf0;
+}
+
+#search-form {
+    display: inline-block;
+    width: 30vw;
+}
+
+#search-bar {
+    display: inline-block; 
+    width: 20vw;
+}
+
+ul.navbar-nav {
+    align-items: center;
+}
+  
+ul.navbar-nav li {
+margin: 0 0.5rem;
+display: flex;
+}
+
+.more:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* ========================== Signup/Login */
+
+#user-form input.form-control {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+}

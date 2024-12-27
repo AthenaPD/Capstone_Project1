@@ -1,0 +1,258 @@
+name,fear_free_id,clinic,street_address_x,city,state_x,zip_code,name_upper,street_address_y,state_y,db_id
+Carol Lah,158695,Dr. Lah Mobile Vet,,San Jose,CA,,DR. LAH MOBILE VET,,CA,1
+Audrey Marzan,187121,MedVet Silicon Valley,,San Jose,CA,,MEDVET SILICON VALLEY,,CA,2
+Michelle Fluegge,164530,Burbank Pet Hospital,,San Jose,CA,95128,BURBANK PET HOSPITAL,,CA,3
+Ian Stone,18110,Blue River Pet- Central Animal Hospital,,Campbell,CA,95008,BLUE RIVER PET- CENTRAL ANIMAL HOSPITAL,,CA,4
+Jeni Goedken,159166,Fond Farewell,,Campbell,CA,95008,FOND FAREWELL,,CA,5
+Jenice Hayes,164855,VCA Winchester,,Campbell,CA,95008,VCA WINCHESTER,,CA,6
+Alina Goh,177846,Happy Valley Pet Hospital,,Campbell,CA,95008,HAPPY VALLEY PET HOSPITAL,,CA,7
+CJ Smith,52816,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Nell Griscom,68499,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Jeremy Hoge,73983,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Baljit Chahal,124527,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Andrea Sherman,148530,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Julie Hermansen,151841,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Allison Coyle,172660,Sunnyvale Veterinary Clinic,,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Ruby Hsieh,150186,Pet's Friend Animal Clinic,,Sunnyvale,CA,,PET'S FRIEND ANIMAL CLINIC,,CA,8
+Praadnya Shah,14917,VCA Pinnacle Animal Hospital,4724 Meridian Avenue,San Jose,CA,,VCA PINNACLE ANIMAL HOSPITAL,4724 Meridian Avenue,CA,9
+Katrina Larkin,60839,Sunnyvale Veterinary Clinic,1036 West El Camino Real,Sunnyvale,CA,94087,SUNNYVALE VETERINARY CLINIC,1036 West El Camino Real,CA,10
+Chloe Block,182006,Apex Veterinary Specialists,,Saratoga,CA,95070,APEX VETERINARY SPECIALISTS,,CA,11
+Kenton Taylor,18402,Miramonte Veterinary Hospital,,Mountain View,CA,94040,MIRAMONTE VETERINARY HOSPITAL,,CA,12
+Stephanie La Plume,216504,MedVet Mountain View,,Mountain View,CA,94040,MEDVET MOUNTAIN VIEW,,CA,13
+Ingrid Peterson,31354,VCA Animal Hospital of Los Gatos,,Los Gatos,CA,95030,VCA ANIMAL HOSPITAL OF LOS GATOS,,CA,14
+Hilary Wheeler,173577,The Whole Pet Vet Hospital And Wellness Center,,Los Gatos,CA,95030,THE WHOLE PET VET HOSPITAL AND WELLNESS CENTER,,CA,15
+Karen Lee,173979,The Whole Pet Vet Hospital & Wellness Center,,Los Gatos,CA,95030,THE WHOLE PET VET HOSPITAL & WELLNESS CENTER,,CA,16
+Samantha Gonzalez,182190,The Whole Pet Vet Hospital & Wellness Center,,Los Gatos,CA,95030,THE WHOLE PET VET HOSPITAL & WELLNESS CENTER,,CA,16
+Christina Waller,193653,The Whole Pet Vet Hospital & Wellness Center,,Los Gatos,CA,95030,THE WHOLE PET VET HOSPITAL & WELLNESS CENTER,,CA,16
+Jazmin Munoz Gonzalez,165490,Oakridge Veterinary Clinic,,San Jose,CA,95123,OAKRIDGE VETERINARY CLINIC,,CA,17
+Stacy Hare,165894,VCA Blossom Hill Animal Hospital,,SAN JOSE,SA,95123,VCA BLOSSOM HILL ANIMAL HOSPITAL,,SA,18
+Courtney Scarborough,46470,VCA Orchard Plaza Animal Hospital,5841 Cottle Road,San Jose,CA,95123,VCA ORCHARD PLAZA ANIMAL HOSPITAL,5841 Cottle Road,CA,19
+Emily Hwang,140642,Banfield Pet Hospital,,Fremont,CA,94538,BANFIELD PET HOSPITAL,,CA,20
+Emily Hwang,141137,Banfield Pet Hospital,,Fremont,CA,94538,BANFIELD PET HOSPITAL,,CA,20
+Nichole Arbona,165052,VetnCare- Irvington Pet Hospital,,Fremont,CA,94538,VETNCARE- IRVINGTON PET HOSPITAL,,CA,21
+Natalie Sun,137834,Warm Springs Pet Hospital,,Fremont,CA,94539,WARM SPRINGS PET HOSPITAL,,CA,22
+Amanda Fiser,8770,Adobe Animal Hospital,,Los Altos,CA,94022,ADOBE ANIMAL HOSPITAL,,CA,25
+Kerri Shandro,23143,Adobe Animal Hospital,,Los Altos,CA,94022,ADOBE ANIMAL HOSPITAL,,CA,25
+Amy Nichelason,23977,Amy Nichelason,,Los Altos,CA,94022,AMY NICHELASON,,CA,23
+Charlotte Corces,24594,Adobe Animal Hospital,,Los Altos,CA,94022,ADOBE ANIMAL HOSPITAL,,CA,25
+Breanna Hillman,32968,Breanna Hillman,,Los Altos,CA,94022,BREANNA HILLMAN,,CA,24
+Marie Caroline Sanoner,202947,Adobe Animal Hospital,,Los Altos,CA,94022,ADOBE ANIMAL HOSPITAL,,CA,25
+Paz Gafter,165123,Pathway Canyon Creek Pet Hospital,,San Jose,CA,95138,PATHWAY CANYON CREEK PET HOSPITAL,,CA,26
+Maryam O'Hara,167040,Pathway Canyon Creek Pet Hospital,,San Jose,CA,95138,PATHWAY CANYON CREEK PET HOSPITAL,,CA,26
+Rebecca Shaffer,217134,UC Davis,,San Jose,CA,95138,UC DAVIS,,CA,27
+Megan Sha,138407,Cornell University College of Veterinary Medicine,,Fremont,CA,94536,CORNELL UNIVERSITY COLLEGE OF VETERINARY MEDICINE,,CA,28
+Ana Clara Munoz,170636,Village Square Woodside Veterinary Hospital,1725 Woodside Rd f,Redwood City,CA,94061,VILLAGE SQUARE WOODSIDE VETERINARY HOSPITAL,1725 Woodside Rd f,CA,29
+Alice Bugman,37148,Sage Veterinary Centers,934 Charter Street,Redwood City,CA,94063,SAGE VETERINARY CENTERS,934 Charter Street,CA,30
+Lisa Reinker,193729,Nva Sage Veterinary Centers,,San Carlos,CA,94070,NVA SAGE VETERINARY CENTERS,,CA,31
+Devon Ueda,138467,Ironhorse Vetcare,,Pleasanton,CA,94588,IRONHORSE VETCARE,,CA,32
+Meredith Elizabeth Stepita,10855,Meredith Elizabeth Stepita,,Dublin,CA,94568,MEREDITH ELIZABETH STEPITA,,CA,33
+Heather Moore,185059,Psivet - Livermore Family Pet Hospital,,Livermore,CA,94550,PSIVET - LIVERMORE FAMILY PET HOSPITAL,,CA,34
+Elisha Miller,203939,Paws and Claws Veterinary Hospital,,Livermore,CA,94550,PAWS AND CLAWS VETERINARY HOSPITAL,,CA,35
+Dilip Garikipati,139997,Animal Cove pet Hospital,1940 Beach Park Boulevard,Foster City,CA,,ANIMAL COVE PET HOSPITAL,1940 Beach Park Boulevard,CA,36
+An-Khanh Ives,167030,Montclair Veterinary Hospital,,Hayward,CA,94541,MONTCLAIR VETERINARY HOSPITAL,,CA,37
+Allison Ard,109056,Livermore Family Pet Hospital,,Ave Livermore,CA,94551,LIVERMORE FAMILY PET HOSPITAL,,CA,38
+Beth Lieblick,22050,SAGE Veterinary Centers,7121 Amador Plaza Rd,Dublin,CA,94568,SAGE VETERINARY CENTERS,7121 Amador Plaza Rd,CA,39
+James Wignall,102222,IronHorse VetCare,,Dublin,CA,,IRONHORSE VETCARE,,CA,40
+Nanase Nakanishi,178327,Banfield Pet Hospital,,Dublin,CA,94568,BANFIELD PET HOSPITAL,,CA,41
+Jacalyn Edens,34266,Chanticleer Veterinary Hospital,2701 Chanticleer Avenue,Santa Cruz,CA,,CHANTICLEER VETERINARY HOSPITAL,2701 Chanticleer Avenue,CA,42
+Rhiannon Sullivan,68913,Del Mar Pet Hospital,7525 Sunset Way,Aptos,CA,95003,DEL MAR PET HOSPITAL,7525 Sunset Way,CA,43
+Judy Force,181119,Dentistry For Animals,,Aptos,CA,95003,DENTISTRY FOR ANIMALS,,CA,44
+Nicola Cohen,162943,VetnCare,,Castro Valley,CA,94546,VETNCARE,,CA,46
+Tiva Hoshizaki,167549,VetnCare,,Castro Valley,CA,94546,VETNCARE,,CA,46
+Lee Morris,170777,Vnc Alley Cat,,Castro Valley,CA,94546,VNC ALLEY CAT,,CA,45
+Morgan Cornelius,173505,Vetncare,,Castro Valley,CA,94546,VETNCARE,,CA,46
+Morgan Ramos,174566,Vetncare Inc,,Castro Valley,CA,94546,VETNCARE INC,,CA,47
+Rachel Moulton,180714,Vetncare Inc,,Castro Valley,CA,94546,VETNCARE INC,,CA,47
+Takashi Kasuya,180789,Vetncare Inc,,Castro Valley,CA,94546,VETNCARE INC,,CA,47
+Sam Parkes,181352,Vetncare Inc,,Castro Valley,CA,94546,VETNCARE INC,,CA,47
+Elizabeth Tancredi,175969,Banfield,,San Leandro,CA,94578,BANFIELD,,CA,48
+"Leigh Stevens, DVM",17529,Scout's House,257 North Amphlett Boulevard,San Mateo,CA,,SCOUT'S HOUSE,257 North Amphlett Boulevard,CA,49
+Anna Mckeever,210350,VCA Bay Area Veterinary Specialists,,Oakland,CA,94605,VCA BAY AREA VETERINARY SPECIALISTS,,CA,50
+Kecia Valdez,203812,East Bay Spca,,Oakland,CA,94621,EAST BAY SPCA,,CA,51
+Lynn Dustin,164359,Bay Area Bird and Exotics Hospital,,El Granada,CA,94018,BAY AREA BIRD AND EXOTICS HOSPITAL,,CA,52
+Lailanee Davalos,216866,Carrington,,Tracy,CA,95377,CARRINGTON,,CA,53
+Keith Harper,163852,VetnCare,2310 South Shore Center,Alameda,CA,94501,VETNCARE,2310 South Shore Center,CA,54
+Nicole Chew,206890,"Nicole Chew Dvm, Veterinary Corporation",,San Francisco,CA,94080,"NICOLE CHEW DVM, VETERINARY CORPORATION",,CA,55
+Dana Al-Nazer,20367,Daly City Fear Free,,San Francisco,CA,94080,DALY CITY FEAR FREE,,CA,56
+Risa Barrett Allison,180387,Alamo Animal Hospital,,Alamo,CA,94507,ALAMO ANIMAL HOSPITAL,,CA,57
+Suzanne Lee,180793,Alamo Animal Hospital,,Alamo,CA,94507,ALAMO ANIMAL HOSPITAL,,CA,57
+Sara Andre,162982,Amador Valley Veterinary Hospital,,Pleasanton,CA,94556,AMADOR VALLEY VETERINARY HOSPITAL,,CA,58
+Elizabeth Alexander,24735,VetnCare Alameda,,Alameda,CA,94501,VETNCARE ALAMEDA,,CA,59
+Michael Miller,30232,Providence Veterinary Hospital & Clinic,,Alameda,CA,94501,PROVIDENCE VETERINARY HOSPITAL & CLINIC,,CA,60
+Kirsten Krick,30526,Marina Village Veterinary and Wellness,,Alameda,CA,94501,MARINA VILLAGE VETERINARY AND WELLNESS,,CA,61
+Mary Applegate,160504,Park Centre Animal Hospital,,Alameda,CA,94501,PARK CENTRE ANIMAL HOSPITAL,,CA,62
+Rachel Goldfarb,34281,VCA Animal Hospital of Los Gatos,,Pacifica,CA,94044,VCA ANIMAL HOSPITAL OF LOS GATOS,,CA,63
+J Linette Regalado,188670,Banfield,,san bruno,CA,94066,BANFIELD,,CA,64
+Michelle Martin De Bustamante,177135,Bluepearl Specialty And Emergency Pet Hospital - Daly City,,Daly City,CA,94014,BLUEPEARL SPECIALTY AND EMERGENCY PET HOSPITAL - DALY CITY,,CA,65
+Michelle Martin De Bustamante,177388,Bluepearl Specialty And Emergency Pet Hospital - Daly City,,Daly City,CA,94014,BLUEPEARL SPECIALTY AND EMERGENCY PET HOSPITAL - DALY CITY,,CA,65
+"Kanwarjit Singh Boparai, DVM",53584,Relief Veterinarian,,Tracy,CA,95376,RELIEF VETERINARIAN,,CA,66
+Wailani Sung,211357,Joybound People and Pets,,Walnut Creek,CA,94598,JOYBOUND PEOPLE AND PETS,,CA,67
+Subash Kethavath,194542,Animal Farm Pet Hospital,5601 Mission Street,San Francisco,CA,,ANIMAL FARM PET HOSPITAL,5601 Mission Street,CA,68
+Alvin Hong,193550,Dr. Treat Sf,,San Francisco,CA,94112,DR. TREAT SF,,CA,69
+Alex Hsi Lee,174400,Banfield Pet Hospital,,Daly City,CA,94015,BANFIELD PET HOSPITAL,,CA,70
+Jayson Johnston,175616,Soma Animal Hospital,,San Francisco,CA,94158,SOMA ANIMAL HOSPITAL,,CA,71
+Robert Linville,174515,Uvc / All Creatures Veterinary Hospital / Vallejo,,Lafayette,CA,94549,UVC / ALL CREATURES VETERINARY HOSPITAL / VALLEJO,,CA,72
+Barbara Wood,122292,SOMA Animal Hospital,,San Francisco,CA,,SOMA ANIMAL HOSPITAL,,CA,73
+Marybeth Rymer,16235,Marybeth Rymer,,Emeryville,CA,94608,MARYBETH RYMER,,CA,74
+Melissa Sparks,39391,San Francisco SPCA,201 Alabama Street,San Francisco,CA,,SAN FRANCISCO SPCA,,CA,80
+Ashley Cotten,116262,Fuzzy Pet Health,,San Francisco,CA,94103,FUZZY PET HEALTH,,CA,75
+Kathleen Kuperman,122217,VCA San Francisco Veterinary Specialists,,San Francisco,CA,94103,VCA SAN FRANCISCO VETERINARY SPECIALISTS,,CA,76
+Diana Montano Reynoso,201030,Sf Spca,,San Francisco,CA,94103,SF SPCA,,CA,77
+Tatton Crawford,181700,Soma Animal Hospital,,San Francisco,CA,94114,SOMA ANIMAL HOSPITAL,,CA,78
+Cynthia Pieper,170106,Self,,Orinda,CA,94563,SELF,,CA,79
+Alison Gerken,96963,San Francisco SPCA,,San Francisco,CA,,SAN FRANCISCO SPCA,,CA,80
+Jessica Holliday,143238,Berkeley Animal Hospital,2709 San Pablo Avenue,Berkeley,CA,,BERKELEY ANIMAL HOSPITAL,2709 San Pablo Avenue,CA,81
+Maayan McDonald,153154,Claremont Veterinary Hospital,,San Francisco,CA,94102,CLAREMONT VETERINARY HOSPITAL,,CA,82
+Shannon Leggieri,155512,Claremont Veterinary Hospital,,San Francisco,CA,94102,CLAREMONT VETERINARY HOSPITAL,,CA,82
+Wailani Sung,20517,Joybound People and Pets,2890 Mitchell Drive,Walnut Creek,CA,,JOYBOUND PEOPLE AND PETS,2890 Mitchell Drive,CA,83
+Marie-Charlotte Popp DVM,133766,"Modern Animal, Russian Hill",1650 Pacific Avenue,San Francisco,CA,,"MODERN ANIMAL, RUSSIAN HILL",1650 Pacific Avenue,CA,84
+Laura Becker,21340,Laura Becker,,Concord,CA,94518,LAURA BECKER,,CA,85
+Terry Kubicka,25293,Four Corners Veterinary Hospital,,Concord,CA,94518,FOUR CORNERS VETERINARY HOSPITAL,,CA,87
+Larry Scharg,34575,Four Corners Veterinary Hospital,,Concord,CA,94518,FOUR CORNERS VETERINARY HOSPITAL,,CA,87
+Elizabeth Pisanelli,124392,Four Corners Veterinary Hospital,,Concord,CA,94518,FOUR CORNERS VETERINARY HOSPITAL,,CA,87
+Rajdeep Turna,170215,Rajdeep Turna,,Concord,CA,94518,RAJDEEP TURNA,,CA,86
+Christina Petri,173705,Four Corners Veterinary Hospital,,Concord,CA,94518,FOUR CORNERS VETERINARY HOSPITAL,,CA,87
+Noelle Schoettle,143832,VCA All Pets Hospital,,San Francisco,CA,94122,VCA ALL PETS HOSPITAL,,CA,88
+Wayne Tse,166889,Irving Pet Hospital,,San Francisco,CA,94122,IRVING PET HOSPITAL,,CA,89
+Lilliam Alfaro,183370,Irving Pet Hospital,,San Francisco,CA,94122,IRVING PET HOSPITAL,,CA,89
+Wing Yin Tse,117744,Banfield Pet Hospital,,San Francisco,CA,94116,BANFIELD PET HOSPITAL,,CA,90
+Richard Dietrich,9446,Richard Dietrich,,Discovery Bay,CA,94505,RICHARD DIETRICH,,CA,91
+Darlene Casuga,170183,Vetco Total Care,,Brentwood,CA,94513,VETCO TOTAL CARE,,CA,92
+Tony Huynh,173650,Dr. Treat Sf,,San Francisco,CA,94123,DR. TREAT SF,,CA,94
+Elise Sanchez,174053,Relief Veterinarian @ Roo Veterinary Relief,,San Francisco,CA,94123,RELIEF VETERINARIAN @ ROO VETERINARY RELIEF,,CA,93
+Michelle Flores,174522,Dr. Treat Sf,,San Francisco,CA,94123,DR. TREAT SF,,CA,94
+Felicity Moffatt,176183,Dr. Treat Sf,,San Francisco,CA,94123,DR. TREAT SF,,CA,94
+Nicole Gasparin,182929,Dr. Treat Sf,,San Francisco,CA,94123,DR. TREAT SF,,CA,94
+Erica Gurley,193962,Codornices,,Albany,CA,94706,CODORNICES,,CA,95
+Yue Kouch,222286,Yue Moi Kouch,,Richmond,CA,94804,YUE MOI KOUCH,,CA,96
+Jeannette Goh,162603,Animal Fix Clinic,12226 San Pablo Avenue,Richmond,CA,12226,ANIMAL FIX CLINIC,12226 San Pablo Avenue,CA,97
+Leslie Lozano Nava,221176,Carrington College,,Stockton,CA,95206,CARRINGTON COLLEGE,,CA,98
+Wendi Velando Rankin,165828,SAGE Veterinary Centers,,Concord,CA,94520,SAGE VETERINARY CENTERS,,CA,99
+Kristin Freitas,166977,SAGE Veterinary Centers,,Concord,CA,94520,SAGE VETERINARY CENTERS,,CA,99
+Karen Tancuan,170223,Banfield Pet Hospital,,Concord,CA,94520,BANFIELD PET HOSPITAL,,CA,100
+Adrienne Hou,211091,All Bay Animal Hospital,,Concord,CA,94520,ALL BAY ANIMAL HOSPITAL,,CA,101
+Hana Link,57776,Oasis Veterinary Hospital,,Martinez,CA,94553,OASIS VETERINARY HOSPITAL,,CA,102
+Hana Link,58004,Oasis Veterinary Hospital,,Martinez,CA,94553,OASIS VETERINARY HOSPITAL,,CA,102
+Hana Link,58256,Oasis Veterinary Hospital,,Martinez,CA,94553,OASIS VETERINARY HOSPITAL,,CA,102
+Emily Lin,163543,Pinole Pet Hospital,,Pinole,CA,94564,PINOLE PET HOSPITAL,,CA,103
+Hanan Sedarous,210704,P3 Veterinary Partner - Lady Hammond Animal Hospital,,Salinas,NS,93907,P3 VETERINARY PARTNER - LADY HAMMOND ANIMAL HOSPITAL,,NS,104
+Rachel Sage,158611,Central Coast College,,Salinas,CA,93901,CENTRAL COAST COLLEGE,,CA,105
+Kate Finegan,180863,Animal Hospital Of Salinas,,Salinas,CA,93901,ANIMAL HOSPITAL OF SALINAS,,CA,106
+Megan Greer,90657,Ripon Veterinary Hospital,,Ripon,CA,95366,RIPON VETERINARY HOSPITAL,,CA,107
+Paige Farnell,71757,VCA Madera,,Corte Madera,CA,94925,VCA MADERA,,CA,108
+Noel Crymble,171917,"Dr. Noel’s Ark, Natural Veterinary Care",,Mill Valley,CA,94941,"DR. NOEL’S ARK, NATURAL VETERINARY CARE",,CA,109
+Milinda Lommer,173117,Aggie Animal Dental Center,,Mill Valley,CA,94941,AGGIE ANIMAL DENTAL CENTER,,CA,110
+Milinda Lommer,173217,Aggie Animal Dental Center,,Mill Valley,CA,94941,AGGIE ANIMAL DENTAL CENTER,,CA,110
+Blaise Waniewski,188269,Pet Emergency And Specialty Center Of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Erin Smythe,155815,Pet Emergency and Specialty Center of Marin,901 Francisco Boulevard East,San Rafael,CA,,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,115
+Audra Pompeani,158755,Pet Emergency and Specialty Center of Marin,901 Francisco Boulevard East,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Carla Robin,167897,Pet Emergency and Specialty Center of Marin,901 Francisco Blvd E,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Corinne Anderson,89880,ESRVC,,San Rafael,CA,94901,ESRVC,,CA,111
+Kat Olson,167103,Pet Emergency and Specialty Center of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Geena Ng,173463,Pet Emergency and Specialty Center of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Susan Ostapak,180756,Pet Emergency and Specialty Center of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Diana Cardenas,180757,Ethos - Pet Emergency and Specialty Center,,San Rafael,CA,94901,ETHOS - PET EMERGENCY AND SPECIALTY CENTER,,CA,112
+Leah Kramer,182670,Pet Emergency And Specialty Center Of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Nika Padidar,223308,Pet Emergency and Specialty Center of Marin,,San Rafael,CA,94901,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,113
+Karen Corsiglia,44985,CrowsLanding Rd. Veterinary Clinic,,Modesto,CA,95358,CROWSLANDING RD. VETERINARY CLINIC,,CA,114
+Fabiola Ferriz Ashby,48903,CrowsLanding Rd. Veterinary Clinic,,Modesto,CA,95358,CROWSLANDING RD. VETERINARY CLINIC,,CA,114
+Krupa Swaminathan,167655,Pet Emergency and Specialty Center of Marin,,San Rafael,CA,,PET EMERGENCY AND SPECIALTY CENTER OF MARIN,,CA,115
+Shanel Xian,174230,Pet Emergency & Specialty Center of Marin,,San Rafael,CA,,PET EMERGENCY & SPECIALTY CENTER OF MARIN,,CA,116
+Marcella Harb-Hauser,192024,Pet Emergency & Specialty Center Of Marin,,San Rafael,CA,,PET EMERGENCY & SPECIALTY CENTER OF MARIN,,CA,116
+Gurnam Gill,78573,Valley Veterinary Hospital,,Modesto,CA,95350,VALLEY VETERINARY HOSPITAL,,CA,117
+Lindsey Rockwood,181586,Toro Park Animal Hospital,,Salinas,CA,93908,TORO PARK ANIMAL HOSPITAL,,CA,118
+Diana Alvarez,164596,Guide Dogs for the Blind,350 Los Ranchitos Road,San Rafael,CA,,GUIDE DOGS FOR THE BLIND,350 Los Ranchitos Road,CA,119
+Mandy Predmore,13892,Village Oak Veterinary Hospital,,Road Modesto,CA,95357,VILLAGE OAK VETERINARY HOSPITAL,,CA,120
+Kristin Conover,158302,Guide Dogs for the Blind,,San Rafael,CA,94903,GUIDE DOGS FOR THE BLIND,,CA,121
+Alex Philippine,158410,Guide Dogs for the Blind,,San Rafael,CA,94903,GUIDE DOGS FOR THE BLIND,,CA,121
+Kris Gonzales,158632,Guide Dogs for the Blind,,San Rafael,CA,94903,GUIDE DOGS FOR THE BLIND,,CA,121
+Erin Matern,159298,Guide Dogs for the Blind,,San Rafael,CA,94903,GUIDE DOGS FOR THE BLIND,,CA,121
+Kate Kuzminski,162053,Guide Dogs for the Blind,,San Rafael,CA,94903,GUIDE DOGS FOR THE BLIND,,CA,121
+Matt Liang,206702,Erickson Veterinary Hospital,,Stockton,CA,95210,ERICKSON VETERINARY HOSPITAL,,CA,122
+Valerie Christiansen,206152,American Canyon Veterinary Hospital,,American Canyon,CA,94503,AMERICAN CANYON VETERINARY HOSPITAL,,CA,123
+Anita Roussell,11536,Sylvan Veterinary Hospital,,Modesto,CA,95357,SYLVAN VETERINARY HOSPITAL,,CA,124
+Julie Kluxdal,183663,Dechra Veterinary Products,,Fairfield,CA,94533,DECHRA VETERINARY PRODUCTS,,CA,125
+Chalaporn Hathaidharm,42436,South Novato Animal Hospital,7077 Redwood Boulevard,Novato,CA,,SOUTH NOVATO ANIMAL HOSPITAL,7077 Redwood Boulevard,CA,126
+Erin Koalska,9129,South Novato Animal Hospital,,Novato,CA,94945,SOUTH NOVATO ANIMAL HOSPITAL,,CA,127
+Tiffany Buckley-Newman,12382,South Novato Animal Hospital,,Novato,CA,94945,SOUTH NOVATO ANIMAL HOSPITAL,,CA,127
+Aj Pheils,177798,The Country Vet,,Novato,CA,94945,THE COUNTRY VET,,CA,128
+Allison Vail Kimmons,210212,Davis Animal Hospital,,Lodi,FL,95242,DAVIS ANIMAL HOSPITAL,,FL,129
+Anna Taylor,204957,UC Davis School Of Veterinary Medicine,,Nicasio,CA,94946,UC DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,130
+Denise Leigh Adams-Berg,17819,Denise Leigh Adams-Berg,,Novato,CA,94947,DENISE LEIGH ADAMS-BERG,,CA,131
+Mary Diedrich,9569,"Happy Tails Animal Hospital Vacaville, CA",,Vacaville,CA,95687,"HAPPY TAILS ANIMAL HOSPITAL VACAVILLE, CA",,CA,132
+Audrey Salinas,147480,"University of California, Davis",,Vacaville,CA,95687,"UNIVERSITY OF CALIFORNIA, DAVIS",,CA,133
+Audrey Salinas,147957,"University of California, Davis",,Vacaville,CA,95687,"UNIVERSITY OF CALIFORNIA, DAVIS",,CA,133
+Jeannie Grijalva,207891,Vetco Total Care,,Vacaville,CA,95687,VETCO TOTAL CARE,,CA,134
+Jennifer Corsi,164050,VetnCare - Alley Cat Small Animal Hospital,,Napa,CA,94558,VETNCARE - ALLEY CAT SMALL ANIMAL HOSPITAL,,CA,135
+Melissa Hart,70212,Arroyo Veterinary Hospital,,Sonoma,CA,95476,ARROYO VETERINARY HOSPITAL,,CA,136
+Morna 'Mo' Herzberg,41377,Morna 'Mo' Herzberg,,Petaluma,CA,,MORNA 'MO' HERZBERG,,CA,137
+Thomas Hack,102612,Franklin Ranch Pet Hospital,10207 Franklin Boulevard,Elk Grove,CA,10207,FRANKLIN RANCH PET HOSPITAL,10207 Franklin Blvd,CA,138
+Thomas Zehnder,189039,Franklin Ranch Pet Hospital,10207 Franklin Blvd,Elk Grove,CA,10207,FRANKLIN RANCH PET HOSPITAL,10207 Franklin Blvd,CA,138
+Tatiana Smith,174674,Amvc,,Merced,CA,95348,AMVC,,CA,139
+Erin Catching,94221,VCA Bradshaw Animal Hospital,,Elk Grove,CA,95624,VCA BRADSHAW ANIMAL HOSPITAL,,CA,140
+Becky Van Riper,169271,VCA Elk Grove Animal Hospital 521,,Elk Grove,CA,95624,VCA ELK GROVE ANIMAL HOSPITAL 521,,CA,141
+Shaina Clinton,174700,Vca Elk Grove Animal Hospital 521,,Elk Grove,CA,95624,VCA ELK GROVE ANIMAL HOSPITAL 521,,CA,141
+Grace Armstrong,216497,VCA Elk Grove Animal Hospital 521,,Elk Grove,CA,95624,VCA ELK GROVE ANIMAL HOSPITAL 521,,CA,141
+Charisse Ongie-Cha,58991,VCA Mueller Pet Medical Center,7625 Freeport Blvd,Sacramento,CA,,VCA MUELLER PET MEDICAL CENTER,7625 Freeport Blvd,CA,142
+Jessica Sanchez,124686,VCA Greenhaven Pocket Animal Hospital,,Sacramento,CA,95831,VCA GREENHAVEN POCKET ANIMAL HOSPITAL,,CA,144
+Irene Nakaoka,140369,SC,,Sacramento,CA,95831,SC,,CA,143
+Madelyn Arbios,160741,VCA Greenhaven Pocket Animal Hospital,,Sacramento,CA,95831,VCA GREENHAVEN POCKET ANIMAL HOSPITAL,,CA,144
+Shanna Wade,38504,"Clinical Animal Behavior Service, UC Davis School of Veterinary Medicine",,Davis,CA,95616,"CLINICAL ANIMAL BEHAVIOR SERVICE, UC DAVIS SCHOOL OF VETERINARY MEDICINE",,CA,145
+Melissa Bain,8748,"Clinical Animal Behavior Service, UC Davis School of Veterinary Medicine",,Davis,CA,95616,"CLINICAL ANIMAL BEHAVIOR SERVICE, UC DAVIS SCHOOL OF VETERINARY MEDICINE",,CA,145
+Susanna Marshall,18140,UC Davis,,Davis,CA,95616,UC DAVIS,,CA,146
+Melissa Valdez,76080,UC Davis,,Davis,CA,95616,UC DAVIS,,CA,146
+Laura Quilling,121005,University of California- Davis,,Davis,CA,95618,UNIVERSITY OF CALIFORNIA- DAVIS,,CA,147
+Laura Quilling,121467,University of California- Davis,,Davis,CA,95618,UNIVERSITY OF CALIFORNIA- DAVIS,,CA,147
+Melissa Thurston,127033,University of California Davis School of Veterinary Medicine,,Davis,CA,95618,UNIVERSITY OF CALIFORNIA DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,148
+Jamie White,134150,UC Davis,,Davis,CA,95618,UC DAVIS,,CA,149
+Leinart Linzey,141059,UC Davis School of Veterinary Medicine,,Davis,CA,95616,UC DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,151
+Leinart Linzey,141554,UC Davis School of Veterinary Medicine,,Davis,CA,95616,UC DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,151
+Catherine Outerbridge,143469,999,,Davis,CA,,999,,CA,150
+Erik Olstad,154259,UC Davis School of Veterinary Medicine,,Davis,CA,95616,UC DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,151
+Savannah Mccurdy,174170,Banfield Davis 5189,,DAVIS,DA,95618,BANFIELD DAVIS 5189,,DA,152
+Leslie Cooper,184895,Veterianry Behavior Counseling And Therapy,,Davis,CA,95616,VETERIANRY BEHAVIOR COUNSELING AND THERAPY,,CA,153
+Jan Ratanapreukskul,185268,Windy's Corner Mobile Veterinary Services,,Davis,CA,,WINDY'S CORNER MOBILE VETERINARY SERVICES,,CA,154
+Crystal Loranc,193782,"University Of California, Davis",,Davis,CA,95616,"UNIVERSITY OF CALIFORNIA, DAVIS",,CA,155
+Barbara Hodges,222930,"Dr. Barbara Hodges, DVM, MBA",,Davis,CA,95616,"DR. BARBARA HODGES, DVM, MBA",,CA,156
+Elvis Her,86849,Carrington College,,Sacramento,CA,95828,CARRINGTON COLLEGE,,CA,157
+Sylvia Nagy,22670,Sonoma Humane Society,,Santa Rosa,CA,95407,SONOMA HUMANE SOCIETY,,CA,158
+Michelle McCorkell,48813,"University of California, Davis",,Santa Rosa,CA,95407,"UNIVERSITY OF CALIFORNIA, DAVIS",,CA,159
+Richard Bennett,33243,Banfield Pet Hospital Crocker Village,,Sacramento,CA,,BANFIELD PET HOSPITAL CROCKER VILLAGE,,CA,160
+Cole Gevurtz,33858,Sactown Vet,,Sacramento,CA,95818,SACTOWN VET,,CA,161
+"Kyra Heirich, DVM",148956,Humane Society of Sonoma County,,5345,CA,,HUMANE SOCIETY OF SONOMA COUNTY,,CA,162
+Ann Chiu,192672,UC Davis School of Veterinary Medicine,,West Sacramento,CA,95691,UC DAVIS SCHOOL OF VETERINARY MEDICINE,,CA,163
+"Sara Cobos, DVM",74700,The Vets of Sacramento,400 Capitol Mall,Sacramento,CA,,THE VETS OF SACRAMENTO,400 Capitol Mall,CA,164
+Mike Saksen,191828,Vca - Forestville Animal Hospital,,Sebastopol,CA,,VCA - FORESTVILLE ANIMAL HOSPITAL,,CA,165
+Rachel Pillitteri,208276,Topline Veterinary Therapeutics,,Usa,CA,37920,TOPLINE VETERINARY THERAPEUTICS,,CA,166
+Helena Tran,153842,"William Pritchard Veterinary Medicine Teaching Hospital, UC Davis",,Sacramento,CA,95811,"WILLIAM PRITCHARD VETERINARY MEDICINE TEACHING HOSPITAL, UC DAVIS",,CA,167
+Beth Kenyon,111776,VCA PetCare West Veterinary Hospital,,Santa Rosa,CA,95401,VCA PETCARE WEST VETERINARY HOSPITAL,,CA,168
+"Jennifer Martin, DVM, Certified Veterinary Acupuncturist",52597,Wise and Wonderful Integrative Veterinary Center,,Santa Rosa,CA,95403,WISE AND WONDERFUL INTEGRATIVE VETERINARY CENTER,,CA,171
+Gail Cutler,84620,Gail Cutler,,Santa Rosa,CA,95403,GAIL CUTLER,,CA,169
+Abbie Whitehead,96936,Abbie Whitehead,,Santa Rosa,CA,95403,ABBIE WHITEHEAD,,CA,170
+Sasha Curtis,150174,VCA PetCare East,,Santa Rosa,CA,95403,VCA PETCARE EAST,,CA,172
+Alan Power,164019,Wise and Wonderful Integrative Veterinary Center,,Santa Rosa,CA,95403,WISE AND WONDERFUL INTEGRATIVE VETERINARY CENTER,,CA,171
+Kimberly Henry,165375,VCA PetCare East,,Santa Rosa,CA,95403,VCA PETCARE EAST,,CA,172
+Dan Famini,182225,Vca Petcare East,,Santa Rosa,CA,95403,VCA PETCARE EAST,,CA,172
+Maegha Singh,210957,VCA PetCare East,,Santa Rosa,CA,95403,VCA PETCARE EAST,,CA,172
+Gail Sanders,173077,Banfield #50 Sacramento Central,,Sacramento,CA,95825,BANFIELD #50 SACRAMENTO CENTRAL,,CA,173
+Gail Sanders,173177,Banfield #50 Sacramento Central,,Sacramento,CA,95825,BANFIELD #50 SACRAMENTO CENTRAL,,CA,173
+Katie Chiu,38564,Country Oaks Pet Hospital,,Sacramento,CA,95864,COUNTRY OAKS PET HOSPITAL,,CA,175
+Rich Johnson,49668,Country Oaks Pet Hospital,,Sacramento,CA,95864,COUNTRY OAKS PET HOSPITAL,,CA,175
+Katie Imig,84839,Country Oaks Pet Hospital,,Sacremento,CA,95864,COUNTRY OAKS PET HOSPITAL,,CA,174
+Kelly Anne Carlson,150306,Country Oaks Pet Hospital,,Sacramento,CA,95864,COUNTRY OAKS PET HOSPITAL,,CA,175
+Cynthia D Delany,10942,Cynthia D Delany,,Woodland,CA,95695,CYNTHIA D DELANY,,CA,176
+Sarah Mui,135458,UC Davis,,Sacramento,CA,95834,UC DAVIS,,CA,177
+Suetching Yu,169274,Banfield Pet Hospital #0053,,Sacramento,CA,95834,BANFIELD PET HOSPITAL #0053,,CA,178
+Alexander Wicklund-Blahut,206776,Vetco Total Care,,Sacramento,CA,95834,VETCO TOTAL CARE,,CA,179
+Bernadette Alvarez,97440,"Safehold Special Risk, Inc.",,Rancho Cordova,CA,95670,"SAFEHOLD SPECIAL RISK, INC.",,CA,180
+Beth Johnson,184489,Vca Mather Animal Medical Center,,Rancho Cordova,CA,95670,VCA MATHER ANIMAL MEDICAL CENTER,,CA,181
+Jordan Richards,117123,Arena Animal Hospital,,Truxel Road,ST,,ARENA ANIMAL HOSPITAL,,ST,182
+Mary Watson,222070,Banfield,,Sacramento,CA,95821,BANFIELD,,CA,183
+Stephanie Jones,187680,Vetco Total Care Of Auburn,,Rancho Cordova,CA,95742,VETCO TOTAL CARE OF AUBURN,,CA,184
+Jennifer Farrar,161731,Carrington College,,Carmichael,CA,95608,CARRINGTON COLLEGE,,CA,185
+Evelyn Bulkeley,178624,VCA Sacramento Animal Medical Group,,Carmichael,CA,95608,VCA SACRAMENTO ANIMAL MEDICAL GROUP,,CA,186
+Elisha Miller,162090,Mono Way Veterinary Hospital,,Sonora,CA,95370,MONO WAY VETERINARY HOSPITAL,,CA,187
+Marc Malek,118884,Foothilll Farms Veterinary Hospital,,Sacramento,CA,95841,FOOTHILLL FARMS VETERINARY HOSPITAL,,CA,188
+Megan Hirano,167421,Foothilll Farms Veterinary Hospital,,Sacramento,CA,95841,FOOTHILLL FARMS VETERINARY HOSPITAL,,CA,188
+Holly Abney,170352,Foothilll Farms Veterinary Hospital,,Sacramento,CA,95841,FOOTHILLL FARMS VETERINARY HOSPITAL,,CA,188
+Aurora Flanagan,132548,Carrington College,,Citrus Heights,CA,95621,CARRINGTON COLLEGE,,CA,189

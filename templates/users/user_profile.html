@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+    <aside class="col-md-4 col-lg-3 col-sm-12 mt-5">
+        <h2 class="text-center mb-3">Profile</h2>
+        <div class="card">
+             <div class="card-body">
+                <h5 class="card-title mb-3">
+                    {{ g.user.full_name }}
+                </h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">
+                    @{{ g.user.username }}
+                </h6>
+                <p class="card-text">
+                    <i class="fa-solid fa-envelope"></i>
+                    {{ g.user.email }}
+                </p>
+             </div>
+        </div>
+
+        <div class="card my-1">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a href="/reviews">My Reviews</a>
+                </h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                {% for review in reviews %}
+                <li class="list-group-item">
+                    <div>
+                        <i class="fa-solid fa-user-doctor"></i>
+                        <a href="/vets/{{ review.vet_id }}">{{ review.vet.name }}</a>
+                    </div>
+                    <div>{{ review.rating }}</div>
+                    <div>
+                        {% if review.comment | length > 115 %}
+                            {{ review.comment[:115] }} ... 
+                            <!-- Span 2 trigger modal -->
+                            <span class="text-primary more" data-bs-toggle="modal" data-bs-target="#review{{review.id}}">
+                                More
+                            </span>
+                        
+                            <!-- Modal -->
+                            <div class="modal fade" id="review{{review.id}}" tabindex="-1" aria-labelledby="review{{review.id}}Label" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h1 class="modal-title fs-5" id="review{{review.id}}Label">
+                                                {{ review.vet.name }}
+                                                {{ review.rating }}
+                                            </h1>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            {{ review.comment }}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        {% else %}
+                            {{ review.comment }}
+                        {% endif %}
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </aside>
+
+    <aside class="col-md-8 col-lg-9 col-sm-12 mt-5">
+        <h2 class="text-center mb-3">My Favorite Vets</h2>
+        <div class="row">
+            {% for vet in vets %}
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                {% include 'vets/vet_card_base.html' %}
+            </div>
+            {% endfor %}
+        </div>
+    </aside>
+</div>
+{% endblock %}

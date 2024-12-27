@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="my-3">
+    <h2 class="text-center mb-3">{{ clinic.name }}</h2>
+    <h5 class="text-center mb-3">
+        <i class="fa-solid fa-location-dot"></i>
+        {{ clinic.location }}<br>
+        {% if clinic.phone %}
+            <i class="fa-solid fa-phone"></i>
+            {{ clinic.phone }}<br>
+        {% endif %}
+        {% if clinic.website %}
+            <i class="fa-solid fa-globe"></i>
+            <a href="{{ clinic.website }}">Website</a>
+        {% endif %}
+    </h5>
+    <div class="row d-flex justify-content-center">
+        {% for vet in vets %}
+        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+            {% include 'vets/vet_card_base.html' %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

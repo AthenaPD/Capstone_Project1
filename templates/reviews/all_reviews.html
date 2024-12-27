@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block content %}
+<div>
+    <h2 class="text-center my-3">My Reviews</h2>
+    <ul class="list-group">
+        {% for review in reviews %}
+            <li class="list-group-item">
+                <h5>
+                    <a href="/vets/{{review.vet_id}}">{{review.vet.name}}</a>
+                    {{ review.rating }}
+                </h5>
+                <div>
+                    <span class="text-muted">{{ review.timestamp.strftime('%B %d %Y') }}</span>
+                    <p id="review-comment-{{review.id}}">
+                        {% if review.comment | length > 225 %}
+                            {{ review.comment[:225] }} ... 
+                            <span class="text-primary more" >More</span>
+                        {% else %}
+                            {{ review.comment }}
+                        {% endif %}
+                    </p>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

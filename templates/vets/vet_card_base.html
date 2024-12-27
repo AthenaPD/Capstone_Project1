@@ -1,0 +1,30 @@
+<div class="card my-1 card-custom" id="vets">
+    <div class="card-body">
+        <h5 class="card-title mb-3">
+            <i class="fa-solid fa-user-doctor"></i>
+            <a href="/vets/{{ vet.id }}">{{ vet.name }}</a>
+            {{ vet.average_rating }}
+        </h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">
+            <i class="fa-solid fa-house-chimney-medical"></i>
+            <a href="/clinics/{{ vet.clinic.id }}">{{ vet.clinic.name }}</a>
+        </h6>
+        <p class="card-text">
+            <i class="fa-solid fa-location-dot"></i>
+            {{ vet.clinic.location }}<br>
+            {% if vet.clinic.phone %}
+                <i class="fa-solid fa-phone"></i>
+                {{ vet.clinic.phone }}<br>
+            {% endif %}
+            {% if vet.clinic.website %}
+                <i class="fa-solid fa-globe"></i>
+                <a href="{{ vet.clinic.website }}">Website</a>
+            {% endif %}
+        </p>
+        <form id="favorite-{{ vet.id }}" data-name="favorite">
+            <button class="btn btn-sm btn-secondary rounded-circle" type="submit">
+                <i class="fa-regular fa-heart"></i>
+            </button>
+        </form>
+    </div>
+</div>
