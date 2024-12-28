@@ -1,4 +1,4 @@
-# Bay Area Fear Free Vets Search App
+# [Bay Area Fear Free Vets Search App](https://bay-area-fear-free-vets.onrender.com)
 
 This web application is designed to help pet parents with anxious pets find fear-free veterinarians (FF vets) in the Bay Area. By streamlining the search and decision-making process, this app simplifies the journey of finding the right care for your beloved pet.
 
@@ -43,7 +43,11 @@ For details on the database structure, refer to the `Schema.png` file in the rep
 
 ## Technology Stacks
 
-The project was built with python 3.10.12 for the backend and javascript for the front end. Specifically, the backend was developed with Flask, SQLAlchemy and WTForms. The front end utilized [Bootstrap v5.3](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+### Development
+This project was built with python 3.10.12 for the backend and javascript for the front end. Specifically, the backend was developed with Flask, SQLAlchemy and WTForms. The front end utilized [Bootstrap v5.3](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+
+### Deployment
+This project was deployed using [Supabase](https://supabase.com/) for the PostgreSQL database, [Gunicorn](https://gunicorn.org/) as the production server and [Render](https://render.com/) for serving the app from the cloud.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
