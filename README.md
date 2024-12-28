@@ -43,7 +43,7 @@ For details on the database structure, refer to the `Schema.png` file in the rep
 
 ## Technology Stacks
 
-The project was built with python 3.10 for the backend and javascript for the front end. Specifically, the backend was developed with Flask, SQLAlchemy, WTForms. The front end utilizes [Bootstrap v5.3](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+The project was built with python 3.10.12 for the backend and javascript for the front end. Specifically, the backend was developed with Flask, SQLAlchemy and WTForms. The front end utilized [Bootstrap v5.3](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
