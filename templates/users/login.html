@@ -5,7 +5,11 @@
         <h2 class="my-5 text-center">
             Welcome back!
         </h2>
-        {% include 'users/user_form_base.html' %}
+        <form method="POST" id="user-form">
+            {% include 'users/user_form_base.html' %}
+        
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Log in!</button>
+        </form>
     </div>
 </div>
 {% endblock %}
